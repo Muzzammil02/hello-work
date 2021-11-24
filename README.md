@@ -1,2 +1,5 @@
 # hello-work
-first work
+
+First work
+
+Python is awesome :snake:
